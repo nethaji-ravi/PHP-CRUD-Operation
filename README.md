@@ -5,7 +5,7 @@
 <table>
   <thead>
     <tr >
-      <th colspan="3">Table name: user</th>
+      <th colspan="4">Table name: user</th>
     </tr>
     <tr>
       <th>id</th>
