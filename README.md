@@ -4,8 +4,8 @@
 
 <table>
   <thead>
-    <tr colspan:"3">
-      <th>Table name: user</th>
+    <tr >
+      <th colspan="3">Table name: user</th>
     </tr>
     <tr>
       <th>id</th>
