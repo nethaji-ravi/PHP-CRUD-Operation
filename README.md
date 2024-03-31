@@ -4,6 +4,9 @@
 
 <table>
   <thead>
+    <tr colspan:"3">
+      <th>Table name: user</th>
+    </tr>
     <tr>
       <th>id</th>
       <th>name</th>
